@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anything and everything that I could help in.
 - 💬 Ask me about C#, .NET, Node.js
 
-![](https://komarev.com/ghpvc/?username=RupaMistry&style=flat-square&color=green&base=1000)
+![](https://komarev.com/ghpvc/?username=RupaMistry&style=flat&color=blue&base=907)
 <!--
 **RupaMistry/RupaMistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
